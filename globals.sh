@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 
 # what gpu and how many? see https://cloud.google.com/compute/docs/gpus
-ACCELERATORTYPE="nvidia-tesla-p4-vws"
+ACCELERATORTYPE="nvidia-tesla-t4-vws"
 ACCELERATORCOUNT="1"
 
 # instance and boot disk type?
