@@ -4,7 +4,7 @@ A collection of bash scripts to help create and maintain a cloud gaming rig in G
 
 ### Quickstart
 
-[![Open in Cloud Shell](https://gstatic.com/cloudssh/images/open-btn.svg)](https://console.cloud.google.com/compute/instances?cloudshell_git_repo=https://github.com/putty182/gcloudrig&cloudshell_print=QUICKSTART.md)
+[![Open in Cloud Shell](https://gstatic.com/cloudssh/images/open-btn.svg)](https://console.cloud.google.com/compute/instances?cloudshell_git_repo=https://github.com/JohnnyPicnic/gcloudrig&cloudshell_print=QUICKSTART.md)
 
 Note: you will require a Google Cloud project with an active billing account to launch your rig.
 
@@ -35,7 +35,7 @@ Note: you will require a Google Cloud project with an active billing account to 
    - Linux/WSL users: Launch a bash shell locally and run `gcloud init`
 -  Clone this repository:
    ````
-   $ git clone "https://github.com/putty182/gcloudrig"
+   $ git clone "https://github.com/JohnnyPicnic/gcloudrig"
    ````
 -  Run `setup.sh` and follow the prompts
    ````
