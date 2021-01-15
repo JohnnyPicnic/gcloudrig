@@ -21,7 +21,7 @@ Note: you will require a Google Cloud project with an active billing account to 
 - [Parsec](https://parsecgaming.com/)
 
 ### Specs
--  8 vCPU (n1-standard-8)
+-  4 vCPU (n1-standard-4) *some licenses are billed per cpu
 -  NVIDIA Tesla P4 (nvidia-tesla-p4-vws)
 -  50GB SSD (pd-ssd)
 -  500GB Storage (pd-standard)
