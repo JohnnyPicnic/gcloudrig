@@ -5,7 +5,7 @@ ACCELERATORTYPE="nvidia-tesla-t4-vws"
 ACCELERATORCOUNT="1"
 
 # instance and boot disk type?
-INSTANCETYPE="n1-standard-8"
+INSTANCETYPE="n1-standard-4"
 BOOTTYPE="pd-ssd"
 
 # base image?
